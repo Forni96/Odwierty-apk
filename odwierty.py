@@ -1,4 +1,4 @@
-print("szacowanie strat technologicznych płuczki w odwiercie")
+print("Szacowanie strat technologicznych płuczki w odwiercie")
 n=1
 while True:
     print("numer odwiertu",n)
@@ -9,7 +9,7 @@ while True:
     print("wprowadż głębokość odwiertu w metrach")
     h=input()
     h=float(h)
-    print("na podstawie wzoru na obj w odwiercie 2*o*pi*r*r*h")
+    print("Na podstawie wzoru na obj w odwiercie 2*o*pi*r*r*h")
     print("zakładamy indywidualne straty dla odwiertu od 0,5 do 2")
     print("przyjmowanym parametrem nich będzie litera o")
     o=input()
